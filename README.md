@@ -1,14 +1,12 @@
 # 👋 Bonjour, bienvenue sur ma page Github !
 
-🎓 Étudiant en école d’ingénieur, passionné par l’intelligence artificielle, les nouvelles technologies et l’innovation.  
-Je me forme continuellement à travers des projets personnels, des challenges et des cours en ligne pour approfondir mes compétences en IA, machine learning et développement logiciel.
+🎓 Étudiant en école d’ingénieur, passionné par l’intelligence artificielle, le sptaial, les nouvelles technologies et l’innovation.  
 
 ---
 
 ## 🚀 À propos de moi
 
-- 🔬 Je m'intéresse particulièrement à : l’**IA générative**, le **machine learning** appliqué, et la **vision par ordinateur**
-- 🧠 En ce moment, j’approfondis : `Python`, `PyTorch`, `scikit-learn`, `NLP`
+- 🔬 Je m'intéresse particulièrement : au **machine learning** appliqué, et la **vision par ordinateur**
 - 📚 Mon parcours : Étudiant à l'Enseirb-Matmeca – spécialisation Télécommunications
 
 ---
