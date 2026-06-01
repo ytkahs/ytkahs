@@ -1,11 +1,50 @@
-# 💫 About Me:
-I’m a French engineering student at ENSEIRB-MATMECA (Bordeaux INP), I have also completed graduate exchange at Kyushu University — Graduate School of Electrical Engineering and Information Science (Oct 2025–Mar 2026).<br><br>I build projects at the intersection of telecommunications, machine learning and computer science.<br><br>Interests: Machine Learning, Computer Vision, Signal Processing, Image Processing
-> Repos here include academic, and personal projects. 
+# Shakty Robert
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakty-robert/) 
+**Engineering Student @ Bordeaux Institute of Technology** · Previously @ Kyushu University · R&D Intern @ IGN (French Mapping Institute)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build systems at the intersection of **Computer Vision**, **Remote Sensing**, and **Autonomous Systems** — from processing satellite & LiDAR data to real-time robot teleoperation.
+
+📍 Bordeaux, France · **Available for full-time opportunities from August 1st, 2026**
+
+---
+
+## 🔬 What I Work On
+
+| Domain | What I've built |
+|---|---|
+| 🛰️ **Remote Sensing** | LiDAR-based change detection (89% acc.) · Cloud removal on Sentinel-2 via SAR-optical fusion |
+| 👁️ **Computer Vision** | Terrain segmentation for Mars rover navigation (85.6% acc., 51.2% mIoU) · Wind turbine damage detection (93% acc.) |
+| 🦾 **Robotics & Embedded** | Real-time robot teleoperation · Markerless motion capture (<2° accuracy, <100ms latency) · VR feedback via Meta Quest 3 |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔴 [Mars Rover Vision — Terrain Segmentation](https://github.com/ytkahs/Mars-Rover-Vision)
+Semantic segmentation for autonomous rover navigation on the NASA AI4Mars dataset.
+ResNet34 transfer learning + custom Masked Autoencoder fine-tuning. Handles severe class imbalance via data augmentation.
+
+**85.6% accuracy · 51.2% mIoU**
+
+### 🤖 Real-Time Robotic Digital Twin & VR Control
+8-engineer team project: markerless arm motion capture with MediaPipe + RealSense, UDP control of a Poppy robot, and stereoscopic VR feedback via Meta Quest 3 / Unity.
+
+**<2° joint accuracy · 100ms end-to-end latency**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C · Matlab · Bash · SQL  
+**CV & ML:** PyTorch · OpenCV · Scikit-learn · Keras · NumPy  
+**Remote Sensing:** GDAL · QGIS · Sentinel-1/2 processing  
+**Embedded:** Arduino · Raspberry Pi · Intel RealSense  
+**Tools:** Git · PostgreSQL · Linux
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakty-robert/)
+[![Email](https://img.shields.io/badge/Email-shakty.robert%40bordeaux--inp.fr-D14836?logo=gmail&logoColor=white)](mailto:shakty.robert@bordeaux-inp.fr)
